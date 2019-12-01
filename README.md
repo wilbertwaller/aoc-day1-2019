@@ -2,6 +2,6 @@
 
 My solution for Day 1.
 
-[Node.js](nodejs.org) is required to make use of the file system (fs)
+[Node.js](http://nodejs.org) is required to make use of the file system (fs).
 
-Run `node main.js` to see the calculated fuel required for Part 1 and Part 2 of Day 1 in the console
+Run `node main.js` to see the calculated fuel required for Part 1 and Part 2 of Day 1 in the console.
